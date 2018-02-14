@@ -41,7 +41,7 @@ $(function() {
       renderer.transparent = true;
       renderer.resolution = 1;
       //renderer.autoResize = true;
-      renderer.roundPixels = true;
+      //renderer.roundPixels = true;
     
       requestAnimationFrame(update);
 
